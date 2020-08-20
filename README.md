@@ -1,4 +1,4 @@
-# React + GoLang Chat App
+# React + Go Chat App
 
 cd backend
 go run main.go
