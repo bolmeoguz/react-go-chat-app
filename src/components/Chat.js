@@ -10,7 +10,7 @@ export default function Chat() {
 
   useEffect(()=>{
     connect((msg)=>{
-      setMessages(prevState =>([msg,...prevState]));
+      setMessages(prevState =>([...prevState,msg]));
     })
   })
 
