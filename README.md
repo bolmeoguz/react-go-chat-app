@@ -1,8 +1,10 @@
 # React + Go Chat App
 
-cd backend
-go run main.go
+### Backend Side
+- cd backend
+- go run main.go
 
-cd client
-npm install
-npm start
+### Client Side
+- cd client
+- npm install
+- npm start
